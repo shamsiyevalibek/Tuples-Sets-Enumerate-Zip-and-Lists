@@ -7,4 +7,4 @@ def create_dict_from_lists(keys: list, values: list) -> dict:
     Returns:
         dict: Dictionary created from the two lists
     """
-    return dict(zip(keys, values))
+    return

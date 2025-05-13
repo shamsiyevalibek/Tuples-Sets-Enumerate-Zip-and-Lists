@@ -7,4 +7,4 @@ def add_corresponding_numbers(list1: list, list2: list) -> list:
     Returns:
         list: List containing sum of corresponding numbers
     """
-    return [x + y for x, y in zip(list1, list2)]
+    return

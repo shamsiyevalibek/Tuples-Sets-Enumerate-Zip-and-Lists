@@ -7,4 +7,4 @@ def find_difference(set1: set, set2: set) -> set:
     Returns:
         set: Elements in set1 that are not in set2
     """
-    return set1.difference(set2)
+    return

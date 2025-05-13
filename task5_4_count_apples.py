@@ -6,4 +6,4 @@ def count_apples(items: list) -> int:
     Returns:
         int: Number of times "apple" appears in the list
     """
-    return items.count("apple")
+    return

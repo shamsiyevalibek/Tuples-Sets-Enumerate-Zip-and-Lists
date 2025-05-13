@@ -7,4 +7,4 @@ def check_common_elements(set1: set, set2: set) -> bool:
     Returns:
         bool: True if sets have common elements, False otherwise
     """
-    return bool(set1.intersection(set2))
+    return

@@ -6,4 +6,4 @@ def get_second_color(colors: tuple) -> str:
     Returns:
         str: The second color in the tuple
     """
-    return colors[1]
+    return

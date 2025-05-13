@@ -8,4 +8,4 @@ def zip_three_lists(list1: list, list2: list, list3: list) -> list:
     Returns:
         list: List of tuples containing items from all three lists
     """
-    return list(zip(list1, list2, list3))
+    return

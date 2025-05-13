@@ -6,4 +6,4 @@ def sort_descending(numbers: list) -> list:
     Returns:
         list: List sorted in descending order
     """
-    return sorted(numbers, reverse=True)
+    return

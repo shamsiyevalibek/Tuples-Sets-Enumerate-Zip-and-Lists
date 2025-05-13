@@ -6,4 +6,4 @@ def remove_duplicates(numbers: list) -> set:
     Returns:
         set: A set containing unique numbers from the input list
     """
-    return set(numbers)
+    return

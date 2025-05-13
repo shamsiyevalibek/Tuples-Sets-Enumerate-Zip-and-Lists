@@ -8,4 +8,4 @@ def find_passing_students(names: list, scores: list, passing_score: int = 60) ->
     Returns:
         list: List of names of students who passed
     """
-    return [name for name, score in zip(names, scores) if score >= passing_score]
+    return

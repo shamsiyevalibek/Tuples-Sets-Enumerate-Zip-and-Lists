@@ -7,4 +7,4 @@ def check_subset(set1: set, set2: set) -> bool:
     Returns:
         bool: True if set1 is a subset of set2, False otherwise
     """
-    return set1.issubset(set2)
+    return

@@ -6,5 +6,4 @@ def print_with_index(items: list) -> None:
     Returns:
         None: Prints each item with its index
     """
-    for index, item in enumerate(items):
-        print(f"{index} {item}")
+    return

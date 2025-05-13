@@ -6,4 +6,4 @@ def create_dict_from_list(items: list) -> dict:
     Returns:
         dict: Dictionary with indices as keys and items as values
     """
-    return {i: item for i, item in enumerate(items)}
+    return
